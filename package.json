@@ -1,6 +1,6 @@
 {
   "name": "mnp-idio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A structure for mnp to create websites using idio framework.",
   "main": "src/index.js",
   "scripts": {
@@ -14,7 +14,9 @@
     "type": "git",
     "url": "git://github.com/artdecocode/mnp-idio.git"
   },
-  "keywords": ["mnp-idio"],
+  "keywords": [
+    "mnp-idio"
+  ],
   "author": "Anton <anton@adc.sh>",
   "license": "MIT",
   "bugs": {
