@@ -1,5 +1,9 @@
 ## 2 May 2018
 
+### 1.2.0
+
+- [feature] add meta information, `README` and `CHANGELOG`.
+
 ### 1.1.0
 
 - [feature] export path to structure
