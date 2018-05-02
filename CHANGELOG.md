@@ -1,5 +1,9 @@
 ## 2 May 2018
 
+### 1.2.1
+
+- [fix] use `legal_name`.
+
 ### 1.2.0
 
 - [feature] add meta information, `README` and `CHANGELOG`.
