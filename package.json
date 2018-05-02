@@ -10,11 +10,6 @@
     "postinstall": "node scripts/postinstall",
     "postpublish": "node scripts/postpublish"
   },
-  "files": [
-    "structure",
-    "scripts",
-    "index.js"
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/artdecocode/mnp-idio.git"
