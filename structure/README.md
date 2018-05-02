@@ -1,4 +1,4 @@
-# {{ my-new-package }}
+# {{ package-name }}
 
 This is a website created with [`idio`][2] via [`mnp`][3].
 

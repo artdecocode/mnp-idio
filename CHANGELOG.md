@@ -1,5 +1,9 @@
 ## 2 May 2018
 
+### 1.2.2
+
+- [fix] use `package-name`.
+
 ### 1.2.1
 
 - [fix] use `legal_name`.
