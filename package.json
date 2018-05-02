@@ -6,12 +6,13 @@
   "scripts": {
     "test": "zoroaster test/spec",
     "test-watch": "zoroaster test/spec --watch",
-    "prepublishOnly": "node prepublishOnly",
-    "postinstall": "node postinstall",
-    "postpublish": "node postpublish"
+    "prepublishOnly": "node scripts/prepublishOnly",
+    "postinstall": "node scripts/postinstall",
+    "postpublish": "node scripts/postpublish"
   },
   "files": [
-    "structure/_yarn.lock"
+    "structure",
+    "scripts"
   ],
   "repository": {
     "type": "git",
