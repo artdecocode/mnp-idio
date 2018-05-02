@@ -1,6 +1,6 @@
 {
   "name": "mnp-idio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A structure for mnp to create websites using idio framework.",
   "main": "src/index.js",
   "scripts": {
