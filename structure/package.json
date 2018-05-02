@@ -1,8 +1,7 @@
 {
-  "name": "idio-structure",
+  "name": "mnp-idio",
   "version": "1.0.0",
   "description": "A website made with idio.",
-  "main": "index.js",
   "scripts": {
     "test": "zoroaster test",
     "start": "node build",
@@ -10,12 +9,17 @@
     "dev": "node src/require",
     "lint": "eslint ."
   },
-  "keywords": [
-    "idio",
-    "website"
-  ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artdecocode/mnp-idio.git"
+  },
+  "keywords": ["mnp", "idio", "website"],
+  "author": "Anton <anton@adc.sh>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artdecocode/mnp-idio/issues"
+  },
+  "homepage": "https://github.com/artdecocode/mnp-idio#readme",
   "devDependencies": {
     "@babel/cli": "7.0.0-beta.46",
     "@babel/core": "7.0.0-beta.46",
