@@ -58,4 +58,3 @@ typings/
 .env
 
 structure/build
-structure/_yarn.lock
