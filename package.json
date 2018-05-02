@@ -1,0 +1,24 @@
+{
+  "name": "mnp-idio",
+  "version": "1.0.0",
+  "description": "A structure for mnp to create websites using idio framework.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/artdecocode/mnp-idio.git"
+  },
+  "keywords": ["mnp-idio"],
+  "author": "Anton <anton@adc.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artdecocode/mnp-idio/issues"
+  },
+  "homepage": "https://github.com/artdecocode/mnp-idio#readme",
+  "devDependencies": {
+    "zoroaster": "0.5.3"
+  }
+}
