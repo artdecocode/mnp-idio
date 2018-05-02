@@ -1,6 +1,6 @@
 ## 2 May 2018
 
-### 1.2.3
+### 1.2.3, 1.2.4
 
 - [fix] remove `build` from structure
 
