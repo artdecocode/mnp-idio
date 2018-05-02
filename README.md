@@ -1,19 +1,9 @@
 # mnp-idio
 
-`mnp-idio` is a new Node.js npm package.
-
-## `mnpIdio():void`
-
-Call this function to get a result you want.
-
-```js
-const mnpIdio = require('mnp-idio')
-
-mnpIdio()
-```
+`mnp-idio` is a structure for mnp to create websites.
 
 ---
 
-(c) [artdecocode][1] 2018
+(c) [Art Deco Code][1] 2018
 
-[1]: https://adc.sh
+[1]: https://artdeco.bz

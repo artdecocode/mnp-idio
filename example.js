@@ -1,3 +1,0 @@
-const mnpIdio = require('./')
-
-mnpIdio()
