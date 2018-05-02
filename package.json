@@ -2,7 +2,7 @@
   "name": "mnp-idio",
   "version": "1.0.4",
   "description": "A structure for mnp to create websites using idio framework.",
-  "main": "index.js",
+  "main": ".",
   "scripts": {
     "test": "zoroaster test/spec",
     "test-watch": "zoroaster test/spec --watch",
@@ -12,7 +12,8 @@
   },
   "files": [
     "structure",
-    "scripts"
+    "scripts",
+    "index.js"
   ],
   "repository": {
     "type": "git",
