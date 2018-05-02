@@ -1,5 +1,9 @@
 ## 2 May 2018
 
+### 1.2.3
+
+- [fix] remove `build` from structure
+
 ### 1.2.2
 
 - [fix] use `package-name`.
